@@ -1,0 +1,20 @@
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\bin\Debug\EntitlementAPIAddInCS.dll
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\bin\Debug\EntitlementAPIAddInCS.pdb
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\obj\Debug\InvAddIn.Resource1.resources
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.csproj.GenerateResource.Cache
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.dll
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.pdb
+C:\ProgramData\Autodesk\Inventor Addins\EntitlementAPIAddInCS.dll
+C:\ProgramData\Autodesk\Inventor Addins\EntitlementAPIAddInCS.pdb
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\bin\Debug\RestSharp.dll
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\bin\Debug\RestSharp.xml
+C:\entitle-API\EntitlementAPIAddIn\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.csprojResolveAssemblyReference.cache
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\bin\Debug\EntitlementAPIAddInCS.dll
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\bin\Debug\EntitlementAPIAddInCS.pdb
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\bin\Debug\RestSharp.dll
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\bin\Debug\RestSharp.xml
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.csprojResolveAssemblyReference.cache
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\obj\Debug\InvAddIn.Resource1.resources
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.csproj.GenerateResource.Cache
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.dll
+C:\entitlment API - DevTV\EntitlementAPI_Inventor\EntitlementAPIAddInCS\obj\Debug\EntitlementAPIAddInCS.pdb

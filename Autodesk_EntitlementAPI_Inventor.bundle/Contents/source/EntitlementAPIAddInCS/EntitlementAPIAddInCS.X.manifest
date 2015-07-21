@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="EntitlementAPIAddInCS" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{e8b7e56a-a693-4a27-8c9c-c4ceff942f1f}" progid="EntitlementAPIAddInCS.StandardAddInServer" threadingModel="Both" name="EntitlementAPIAddInCS.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="EntitlementAPIAddInCS.dll" hashalg="SHA1"></file>
+
+</assembly>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AutodeskProduct="Revit" Name="EntitlementAPIRevit" Description="Testing for EntitlementAPIRevit " AppVersion="1.0.0" FriendlyVersion="1.0.0" ProductType="Application" SupportedLocales="Enu" AppNameSpace="appstore.exchange.autodesk.com" Author="Viru" HelpFile="./Contents/help.html" OnlineDocumentation="www.Autodesk.com" ProductCode="{4C9CFB45-0FCB-49EE-808B-59F7D4BC7BD0}" UpgradeCode="{4C1C98B8-8A62-4716-9733-77491D65A00D}" Icon="./Contents/EAPI.bmp">
+  <CompanyDetails Name="Autodesk, Inc." Email="virupaksha.aithal@autodesk.com" Url="www.Autodesk.com" />
+  <RuntimeRequirements OS="Win32|Win64" Platform="Revit" SeriesMin="R2016" SeriesMax="R2016" />
+  <Components Description="2016">
+    <RuntimeRequirements OS="Win32|Win64" Platform="Revit" SeriesMin="R2016" SeriesMax="R2016" />
+    <ComponentEntry AppName="EntitlementAPIRevit" Version="1.0.0" ModuleName="./Contents/windows/EntitlementAPIRevit.addin" AppDescription="EntitlementAPIRevit" />
+  </Components>
+</ApplicationPackage>

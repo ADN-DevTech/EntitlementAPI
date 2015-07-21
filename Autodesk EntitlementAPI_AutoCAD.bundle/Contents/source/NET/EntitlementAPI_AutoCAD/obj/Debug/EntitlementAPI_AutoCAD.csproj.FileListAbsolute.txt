@@ -1,0 +1,9 @@
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\bin\Debug\EntitlementAPI_AutoCAD.dll
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\bin\Debug\EntitlementAPI_AutoCAD.pdb
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\bin\Debug\RestSharp.dll
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\bin\Debug\RestSharp.xml
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\obj\Debug\EntitlementAPI_AutoCAD.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\obj\Debug\EntitlementAPI_AutoCAD.MyCommands.resources
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\obj\Debug\EntitlementAPI_AutoCAD.csproj.GenerateResource.Cache
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\obj\Debug\EntitlementAPI_AutoCAD.dll
+C:\ProgramData\Autodesk\ApplicationPlugins\Autodesk EntitlementAPI_AutoCAD.bundle\Contents\source\NET\EntitlementAPI_AutoCAD\obj\Debug\EntitlementAPI_AutoCAD.pdb

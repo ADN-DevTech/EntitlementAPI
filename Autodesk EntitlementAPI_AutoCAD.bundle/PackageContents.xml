@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AutodeskProduct="AutoCAD" Name="EntitlementAPI_AutoCAD" Description="EntitlementAPI_AutoCAD" AppVersion="1.0.0" FriendlyVersion="1.0.0" ProductType="Application" SupportedLocales="Enu" AppNameSpace="appstore.exchange.autodesk.com" Author="Autodesk,Inc." ProductCode="{2763E9C9-93D5-40F7-BE03-023F8F5B20CF}" UpgradeCode="{368C6B65-0BBC-4C81-9C75-C973BC0E9A5E}" HelpFile="./Contents/Help.html" Icon="./Contents/Resource/appicon.bmp">
+  <CompanyDetails Name="Autodesk,Inc." Email="AutoCAD.apps@autodesk.com" Url="http://www.autodesk.com/" />
+  <Components Description="Lisp">
+    <RuntimeRequirements OS="Win32|Win64" Platform="AutoCAD*" SeriesMin="R19.1" SeriesMax="R20.1" />
+    <ComponentEntry AppName="EntitlementAPI_AutoCAD" Version="1.0.0" ModuleName="./Contents/windows/Lisp/lisptest.lsp" AppDescription="EntitlementAPI_AutoCAD" PerDocument="True" LoadOnAutoCADStartup="True" LoadOnCommandInvocation="True" />
+    <ComponentEntry AppName="EntitlementAPI_AutoCAD" Version="1.0.0" ModuleName="./Contents/Resource/EntitlementCUI.cuix" AppDescription="EntitlementAPI_AutoCAD" LoadOnAutoCADStartup="True" />
+  </Components>
+  <Components Description="NET">
+    <RuntimeRequirements OS="Win32|Win64" Platform="AutoCAD*" SeriesMin="R19.1" SeriesMax="R20.1" />
+    <ComponentEntry AppName="EntitlementAPI_AutoCAD" Version="1.0.0" ModuleName="./Contents/windows/NET/EntitlementAPI_AutoCAD.dll" AppDescription="EntitlementAPI_AutoCAD" LoadOnAutoCADStartup="True" LoadOnCommandInvocation="True" />
+    <ComponentEntry AppName="EntitlementAPI_AutoCAD" Version="1.0.0" ModuleName="./Contents/Resource/EntitlementCUI.cuix" AppDescription="EntitlementAPI_AutoCAD" LoadOnAutoCADStartup="True" />
+  </Components>
+  <Components Description="ObjectARX">
+    <RuntimeRequirements OS="Win32|Win64" Platform="AutoCAD*" SeriesMin="R19.1" SeriesMax="R20.1" />
+    <ComponentEntry AppName="EntitlementAPI_AutoCAD" Version="1.0.0" ModuleName="./Contents/windows/ObjectARX/ADSArxTestEntitlement.arx" AppDescription="EntitlementAPI_AutoCAD" LoadOnAutoCADStartup="True" LoadOnCommandInvocation="True" />
+    <ComponentEntry AppName="EntitlementAPI_AutoCAD" Version="1.0.0" ModuleName="./Contents/Resource/EntitlementCUI.cuix" AppDescription="EntitlementAPI_AutoCAD" LoadOnAutoCADStartup="True" />
+  </Components>
+</ApplicationPackage>

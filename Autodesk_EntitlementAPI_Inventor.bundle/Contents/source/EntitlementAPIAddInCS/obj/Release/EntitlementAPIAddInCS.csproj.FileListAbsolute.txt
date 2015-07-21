@@ -1,0 +1,7 @@
+C:\entitlment API - DevTV\EntitlementAPI_Inventor.bundle\EntitlementAPIAddInCS\bin\Release\EntitlementAPIAddInCS.dll
+C:\entitlment API - DevTV\EntitlementAPI_Inventor.bundle\EntitlementAPIAddInCS\bin\Release\RestSharp.dll
+C:\entitlment API - DevTV\EntitlementAPI_Inventor.bundle\EntitlementAPIAddInCS\bin\Release\RestSharp.xml
+C:\entitlment API - DevTV\EntitlementAPI_Inventor.bundle\EntitlementAPIAddInCS\obj\Release\EntitlementAPIAddInCS.csprojResolveAssemblyReference.cache
+C:\entitlment API - DevTV\EntitlementAPI_Inventor.bundle\EntitlementAPIAddInCS\obj\Release\InvAddIn.Resource1.resources
+C:\entitlment API - DevTV\EntitlementAPI_Inventor.bundle\EntitlementAPIAddInCS\obj\Release\EntitlementAPIAddInCS.csproj.GenerateResource.Cache
+C:\entitlment API - DevTV\EntitlementAPI_Inventor.bundle\EntitlementAPIAddInCS\obj\Release\EntitlementAPIAddInCS.dll

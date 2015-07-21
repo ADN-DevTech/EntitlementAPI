@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AutodeskProduct="Inventor" Name="EntitlementAPI_Inventor" Description="EntitlementAPI_Inventor" AppVersion="1.0.0" FriendlyVersion="1.0.0" ProductType="Application" SupportedLocales="Enu" AppNameSpace="appstore.exchange.autodesk.com" Author="Virupaksha Aithal" HelpFile="./Contents/Documentation/Autodesk_EntitlementAPI_Inventor.html" ProductCode="{6182468A-A60C-4774-A961-3BDA110E502D}" UpgradeCode="{F98FF784-D86C-486C-9AE8-DC2A7FFA07DA}" Icon="./Contents/Documentation/E_API.png">
+  <CompanyDetails Name="Autodesk" Email="virupaksha.aithal@autodesk.com" Url="www.autodesk.com" />
+  <RuntimeRequirements OS="Win32|Win64" Platform="Inventor" />
+  <Components Description="Entitlement API">
+    <RuntimeRequirements OS="Win32|Win64" Platform="Inventor" SeriesMin="Ir17" SeriesMax="Ir20" />
+    <ComponentEntry AppName="Entitlement API" Version="1.0.0" ModuleName="./Contents/windows/Autodesk.EntitlementAPIAddInCS.Inventor.addin" />
+  </Components>
+</ApplicationPackage>

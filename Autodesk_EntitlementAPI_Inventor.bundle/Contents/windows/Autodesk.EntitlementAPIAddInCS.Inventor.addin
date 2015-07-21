@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 20.0-->
+  <ClassId>{e8b7e56a-a693-4a27-8c9c-c4ceff942f1f}</ClassId>
+  <ClientId>{e8b7e56a-a693-4a27-8c9c-c4ceff942f1f}</ClientId>
+  <DisplayName>EntitlementAPIAddInCS</DisplayName>
+  <Description>EntitlementAPIAddInCS</Description>
+  <Assembly>EntitlementAPIAddInCS.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>19..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

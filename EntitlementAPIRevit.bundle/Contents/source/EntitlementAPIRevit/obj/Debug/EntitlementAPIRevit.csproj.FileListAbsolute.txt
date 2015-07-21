@@ -1,0 +1,8 @@
+C:\ProgramData\Autodesk\ProgramData\Autodesk\Revit\Addins\2016\EntitlementAPIRevit.dll
+C:\ProgramData\Autodesk\ProgramData\Autodesk\Revit\Addins\2016\EntitlementAPIRevit.pdb
+C:\ProgramData\Autodesk\ApplicationPlugins\EntitlementAPIRevit.bundle\Contents\source\EntitlementAPIRevit\obj\Debug\EntitlementAPIRevit.csprojResolveAssemblyReference.cache
+C:\ProgramData\Autodesk\ApplicationPlugins\EntitlementAPIRevit.bundle\Contents\source\EntitlementAPIRevit\obj\Debug\EntitlementAPIRevit.g.resources
+C:\ProgramData\Autodesk\ApplicationPlugins\EntitlementAPIRevit.bundle\Contents\source\EntitlementAPIRevit\obj\Debug\EntitlementAPIRevit.Resource1.resources
+C:\ProgramData\Autodesk\ApplicationPlugins\EntitlementAPIRevit.bundle\Contents\source\EntitlementAPIRevit\obj\Debug\EntitlementAPIRevit.csproj.GenerateResource.Cache
+C:\ProgramData\Autodesk\ApplicationPlugins\EntitlementAPIRevit.bundle\Contents\source\EntitlementAPIRevit\obj\Debug\EntitlementAPIRevit.dll
+C:\ProgramData\Autodesk\ApplicationPlugins\EntitlementAPIRevit.bundle\Contents\source\EntitlementAPIRevit\obj\Debug\EntitlementAPIRevit.pdb

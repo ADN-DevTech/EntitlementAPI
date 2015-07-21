@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ElementRenumbering</Name>
+    <Description>Checks the entitlement of the logged-in user.</Description>
+    <Assembly>.\EntitlementAPIRevit.dll</Assembly>
+    <FullClassName>EntitlementAPIRevit.ExtApplication</FullClassName>
+    <ClientId>76507863-0cdf-4bc5-80a7-407288734368</ClientId>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk, http://www.autodesk.com/ </VendorDescription>
+  </AddIn>  
+  <AddIn Type="Command">
+    <Text>EntitlementAPIRevit</Text>
+    <Description>Re-assign the Number properties of rooms and spaces or the Mark properties of doors and windows in the order that the user selects.</Description>
+    <Assembly>.\EntitlementAPIRevit.dll</Assembly>
+    <FullClassName>EntitlementAPIRevit.Commands</FullClassName>
+    <ClientId>a497166e-7d5d-4e06-841f-ec797edaa85d</ClientId>
+    <VisibilityMode>NotVisibleInFamily</VisibilityMode>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+    <AvailabilityClassName>EntitlementAPIRevit.CommandAvailability</AvailabilityClassName>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk, http://www.autodesk.com/ </VendorDescription>
+  </AddIn>
+</RevitAddIns>
